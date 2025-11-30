@@ -1,0 +1,85 @@
+{
+    "version": "4.5.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    57,
+                    63
+                ],
+                [
+                    156,
+                    157
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    350,
+                    71
+                ],
+                [
+                    412,
+                    144
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    519,
+                    21
+                ],
+                [
+                    577,
+                    94
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    423,
+                    131
+                ],
+                [
+                    482,
+                    198
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    578,
+                    79
+                ],
+                [
+                    622,
+                    141
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "D:\\DL_Sorghum_Yield_Forecasting_Git\\Panicle_Annotation\\Macia_ND_1280\\ND_6m_Macia_1001280.JPG",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}
