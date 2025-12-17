@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="./panicle_annotation.gif" width="400" height="400">
+</p>
+<p align="center">
   <img src="./seed_annotation.gif" width="400" height="400">
 </p>
 
