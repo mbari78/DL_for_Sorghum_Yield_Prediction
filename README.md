@@ -4,7 +4,7 @@ This is the codebase for the paper "Deep Learning for Sorghum Yield Forecasting 
 
 ## Setup
 
-This repository contains large files, for which Git LFS needs to be installed from [here](https://docs.anaconda.com/miniconda/miniconda-install/). The large files must be pulled via `git lfs pull` after cloning this repo. Though optional, we highly recommend to download and install Miniconda from [here](https://docs.anaconda.com/miniconda/miniconda-install/) and create a conda environment for running this codebase. Run the following command to install all the necessary libraries in your desired environment:
+This repository contains large files, for which Git LFS needs to be installed from [here](https://docs.anaconda.com/miniconda/miniconda-install/). The large files must be pulled via `git lfs pull` after cloning this repo. Though optional, we highly recommend to download and install Miniconda from [here](https://docs.anaconda.com/miniconda/miniconda-install/) and create a conda environment for running this codebase. Moreover, you must install PyTorch from the official website in your desired environment by following the instructions given [here](https://pytorch.org/) for your OS and CUDA version. Once PyTorch is installed, run the following command after cloning the repo to install necessary packages:
 
 ```
 pip install -r requirements.txt
