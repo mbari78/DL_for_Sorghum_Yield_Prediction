@@ -1,0 +1,14 @@
+jupyter
+ultralytics
+shap
+statsmodels
+scikit-learn
+tqdm
+scipy
+ipywidgets
+opencv-python
+seaborn
+pillow
+torchvision
+torch
+matplotlib

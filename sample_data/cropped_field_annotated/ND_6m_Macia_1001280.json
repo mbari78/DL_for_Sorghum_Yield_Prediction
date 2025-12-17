@@ -26,7 +26,7 @@
                 ],
                 [
                     412,
-                    147
+                    148
                 ]
             ],
             "shape_type": "rectangle",
@@ -41,7 +41,7 @@
                 ],
                 [
                     482,
-                    196
+                    198
                 ]
             ],
             "shape_type": "rectangle",
@@ -72,21 +72,6 @@
                 [
                     622,
                     139
-                ]
-            ],
-            "shape_type": "rectangle",
-            "flags": {}
-        },
-        {
-            "label": "panicle",
-            "points": [
-                [
-                    0,
-                    220
-                ],
-                [
-                    35,
-                    259
                 ]
             ],
             "shape_type": "rectangle",
