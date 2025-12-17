@@ -1,6 +1,6 @@
 # Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery
 
-This is the codebase for the paper "Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery". All the experiments are provided in the `codes` folder as jupyter notebooks. We provided sample data for running all the codes in the `sample data` folder. 
+This is the codebase for the paper "Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery". All the experiments are provided in the `codes` folder as jupyter notebooks. We provided sample data for running all the codes in the `sample data` folder. The weights of our trained models are in the `weights` folder.
 
 ## Setup
 
