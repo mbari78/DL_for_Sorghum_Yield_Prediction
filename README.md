@@ -1,7 +1,7 @@
 # Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery
 
 <p align="center">
-  <img src="./panicle_annotation.gif" width="400" height="300">
+  <img src="./panicle_annotation.gif" width="500" height="500">
 </p>
 <p align="center">
   <img src="./seed_annotation.gif" width="1270" height="700">
