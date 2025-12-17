@@ -12,7 +12,7 @@ pip install -r requirements.txt
 If you use our code or find it to be helpful in your research, please use the following BibTeX entry for citation.
 
 ```
-@article{ALBARI2025100133,
+@article{bari2025plantphenomics,
 title = {Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery},
 journal = {Plant Phenomics},
 pages = {100133},
