@@ -9,3 +9,17 @@ This repository contains large files, for which Git LFS needs to be installed fr
 ```
 pip install -r requirements.txt
 ```
+If you use our code or find it to be helpful in your research, please use the following BibTeX entry for citation.
+
+```
+@article{ALBARI2025100133,
+title = {Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery},
+journal = {Plant Phenomics},
+pages = {100133},
+year = {2025},
+issn = {2643-6515},
+doi = {https://doi.org/10.1016/j.plaphe.2025.100133},
+url = {https://www.sciencedirect.com/science/article/pii/S2643651525001396},
+author = {Md.Abdullah {Al Bari} and Aliva Bakshi and Jahid Chowdhury Choton and Swaraj Pramanik and Trevor D. Witt and Doina Caragea and Scott Bean and S.V. {Krishna Jagadish} and Terry Felderhoff}
+}
+```
