@@ -16,7 +16,7 @@ This repository contains large files, for which Git LFS needs to be installed fr
 ```
 pip install -r requirements.txt
 ```
-If you use our code or find it to be helpful in your research, please cite:
+If you use our code or find it helpful in your research, please cite:
 ```bibtex
 @article{BARI2026_DL_Phenomics,
 title = {Deep learning for sorghum yield forecasting using uncrewed aerial systems and lab-derived imagery},
