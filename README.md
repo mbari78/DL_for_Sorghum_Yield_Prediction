@@ -16,17 +16,19 @@ This repository contains large files, for which Git LFS needs to be installed fr
 ```
 pip install -r requirements.txt
 ```
-If you use our code or find it to be helpful in your research, please use the following BibTeX entry for citation.
-
-```
-@article{bari2025plantphenomics,
-title = {Deep Learning for Sorghum Yield Forecasting using Uncrewed Aerial Systems and Lab-Derived Imagery},
+If you use our code or find it to be helpful in your research, please cite:
+```bibtex
+@article{BARI2026_DL_Phenomics,
+title = {Deep learning for sorghum yield forecasting using uncrewed aerial systems and lab-derived imagery},
 journal = {Plant Phenomics},
+volume = {8},
+number = {1},
 pages = {100133},
-year = {2025},
+year = {2026},
 issn = {2643-6515},
 doi = {https://doi.org/10.1016/j.plaphe.2025.100133},
 url = {https://www.sciencedirect.com/science/article/pii/S2643651525001396},
-author = {Md.Abdullah {Al Bari} and Aliva Bakshi and Jahid Chowdhury Choton and Swaraj Pramanik and Trevor D. Witt and Doina Caragea and Scott Bean and S.V. {Krishna Jagadish} and Terry Felderhoff}
+author = {Md. Abdullah Al Bari and Aliva Bakshi and Jahid Chowdhury Choton and Swaraj Pramanik and Trevor D. Witt and Doina Caragea and Scott Bean and S.V. {Krishna Jagadish} and Terry Felderhoff},
+keywords = {Deep Learning, Computer Vision, YOLO, Faster-RCNN, Unmanned Aerial Systems (UAS) Imagery, Extracting Yield Features, Sorghum Yield Prediction using Machine Learning}
 }
 ```
